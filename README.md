@@ -4,4 +4,6 @@ This project is part of a Bachelor's thesis for Istanbul Technical University. A
 
 **This project is currently being expanded to be licensed. Therefore the whole model is not shared within this repository.**
 
-
+Additional notebooks:
+•indicators notebook displays how the indicators are created, for better understanding of their purpose. This code also further shows how an indicator may have a delayed effect. 
+•graphs notebook includes the commonly used visulizations for stock market data.
