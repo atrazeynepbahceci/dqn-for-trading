@@ -1,6 +1,6 @@
 # dqn-for-trading
 
-This project is part of a Bachelor's thesis for Istanbul Technical University. A deep Q-network is used to create trading strategies. The network is created using TensorFlow, an open source library.
+In this model, a deep Q-network is used to create trading strategies. The network is created using TensorFlow, an open source library.
 
 
 **On additional notebooks:**
